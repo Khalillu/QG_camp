@@ -1,0 +1,356 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="4046" dy="5666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;rotation=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="670" width="1490" height="2000" as="geometry">
+            <mxRectangle x="-440" y="670" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Train" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="490" y="50" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="LeNet" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="AlexNet" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="VGGNet" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-18">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-14" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="150" as="sourcePoint" />
+            <mxPoint x="820" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-27" value="GoogleNet" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="720" y="180" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" target="uNlsaNpREDhHdGrhKNIU-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="150" as="sourcePoint" />
+            <mxPoint x="1070" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1036" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-30" value="ResNet" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="946" y="180" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-31" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="50" as="sourcePoint" />
+            <mxPoint x="580" y="-60" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="uNlsaNpREDhHdGrhKNIU-105">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="90" y="340" width="270" height="160" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="uNlsaNpREDhHdGrhKNIU-106">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="460" y="340" width="260" height="160" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-117" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" target="uNlsaNpREDhHdGrhKNIU-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="260" as="sourcePoint" />
+            <mxPoint x="390" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-118" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" target="uNlsaNpREDhHdGrhKNIU-106">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="260" as="sourcePoint" />
+            <mxPoint x="630" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-146" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="uNlsaNpREDhHdGrhKNIU-118">
+          <mxGeometry x="-0.1746" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-120" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" target="uNlsaNpREDhHdGrhKNIU-110">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1076" y="260" as="sourcePoint" />
+            <mxPoint x="1126" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-121" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" target="uNlsaNpREDhHdGrhKNIU-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="260" as="sourcePoint" />
+            <mxPoint x="130" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-122" value="Model" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontStyle=1;labelBackgroundColor=none;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="uNlsaNpREDhHdGrhKNIU-121">
+          <mxGeometry x="-0.0083" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-145" value="Model" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontStyle=1;labelBackgroundColor=none;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="310" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-147" value="Model" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontStyle=1;labelBackgroundColor=none;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="580" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-149" value="Model" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontStyle=1;labelBackgroundColor=none;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="1267" y="270" as="geometry">
+            <mxPoint x="-103" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="uNlsaNpREDhHdGrhKNIU-110" target="uNlsaNpREDhHdGrhKNIU-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="uNlsaNpREDhHdGrhKNIU-110">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1190" y="339" width="300" height="160" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="uNlsaNpREDhHdGrhKNIU-151">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="90" y="340" width="270" height="391" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="uNlsaNpREDhHdGrhKNIU-152">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="455" y="340" width="270" height="391" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="uNlsaNpREDhHdGrhKNIU-153">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="790" y="340" width="270" height="391" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-169" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" target="uNlsaNpREDhHdGrhKNIU-153">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="260" as="sourcePoint" />
+            <mxPoint x="860" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="uNlsaNpREDhHdGrhKNIU-175">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1190" y="339" width="300" height="391" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-34" target="uNlsaNpREDhHdGrhKNIU-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-34" target="uNlsaNpREDhHdGrhKNIU-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-34" target="uNlsaNpREDhHdGrhKNIU-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 24px;&quot;&gt;使用CUDA加速&lt;/font&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="uNlsaNpREDhHdGrhKNIU-34">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+            <mxGeometry x="50" y="540" width="200" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-81" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;损失函数为交叉熵函数&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-35">
+          <mxGeometry x="-0.0041" y="-1" relative="1" as="geometry">
+            <mxPoint x="150" as="targetPoint" />
+            <mxPoint x="-1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-83" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="uNlsaNpREDhHdGrhKNIU-81">
+          <mxGeometry x="0.4871" y="-3" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-84" value="定义Net" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="uNlsaNpREDhHdGrhKNIU-81">
+          <mxGeometry x="-0.5317" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-87" value="梯度迭代器使用optim.Adam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="uNlsaNpREDhHdGrhKNIU-81">
+          <mxGeometry x="0.4872" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-35" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;device = torch.device(&quot;cuda:0&quot;if torch.cuda is_avalible else &quot;cpu&quot;)&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=1;spacing=2;spacingLeft=52;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="370" width="200" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.451;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-37" target="uNlsaNpREDhHdGrhKNIU-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-37" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; 处理数据集&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=1;spacing=2;spacingLeft=52;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="545" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-43" target="uNlsaNpREDhHdGrhKNIU-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-43" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;data_transform = {&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&quot;train&quot;: transforms.Compose([transforms.RandomResizedCrop(224),&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; transforms.RandomHorizontalFlip(),&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; transforms.ToTensor(),&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; transforms.Normalize((0.5,0.5,0.5),(0.5,0.5,0.5))])},&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&quot;val&quot;:transforms.Compose([transforms.Resize((224,224)),&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;transforms.ToTensor(),&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;transforms.Normalize((0.5,0.5,0.5),(0.5,0.5,0.5))])}&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=1;spacing=2;spacingLeft=52;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="230" width="420" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-45" target="uNlsaNpREDhHdGrhKNIU-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="530" />
+              <mxPoint x="550" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-45" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;读取数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=1;spacing=2;spacingLeft=52;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="545" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-48" target="uNlsaNpREDhHdGrhKNIU-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="575" y="330" />
+              <mxPoint x="575" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-48" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;data_root = os.path.abspath(os.path.join(os.getcwd()m&quot;../..&quot;))&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;image_path = os.path.join(data_root,&quot;data_set&quot;,&quot;flower_data&quot;)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;assert os.path.exists(imath.path),&quot;{} path does not exist.&quot;.format(image_path)&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=1;spacing=2;spacingLeft=52;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="530" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-50" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;train_dataset = datasets.ImageFolder(root=os.path.join(image_path,&quot;train&quot;)),&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; transform=data_transform[&quot;train&quot;]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;train_num = len(train_dataset)&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=1;spacing=2;spacingLeft=52;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="70" width="530" height="187.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-55" target="uNlsaNpREDhHdGrhKNIU-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-55" value="将各类别图片赋予值（索引index），使用键值对字典的方式&lt;br&gt;&lt;div&gt;{&#39;daisy&#39;:0, &#39;dandelion&#39;:1, &#39;roses&#39;:2, &#39;sunflower&#39;:3, &#39;tulips&#39;:4}&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=0;spacing=2;spacingLeft=52;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-30" width="400" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-60" value="Batch_size定义与worker数量定义" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-57" target="uNlsaNpREDhHdGrhKNIU-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-520" y="-240" />
+              <mxPoint x="-520" y="-240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-57" target="uNlsaNpREDhHdGrhKNIU-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="-450.625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-57" value="&lt;span&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;flower_list = train_dataset.class_to_idx&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;cla_dict = dict((val, key) for key, val in flower_list.items())&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;json_str = json.dumps(cla_dict, indent=4)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;with open(&#39;class_indices.json&#39;,&#39;w&#39;) as json_file:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;json_file.write(json_str)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=1;spacing=2;spacingLeft=52;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-310" width="400" height="181.25" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-59" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;batch_size = 32&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;nw = min([os.cpu_count(), batch_size if batch_size &amp;gt; 1 else 0, 8])&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;print(&#39;using {} data loader workers every process&#39;.format(nw))&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=1;spacing=2;spacingLeft=52;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="-320" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-63" target="uNlsaNpREDhHdGrhKNIU-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="-890.625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-63" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;训练数据集加载&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;shuffle代表每赋值一次train_loader之后将索引打乱&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;train_loader在迭代时会生成(images, labels)元组(tuple)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=0;spacing=2;spacingLeft=52;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-750" width="400" height="181.25" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-66" target="uNlsaNpREDhHdGrhKNIU-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="-1280.625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-66" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;train_loader = torch.utils.data.Dataloader(train_dataset,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;batch_size=batch_size,shuffle=True,num_workers=nw)&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=1;spacing=2;spacingLeft=52;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-1140" width="400" height="181.25" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-75" value="validate_dataset = datasets.ImageFolder(root=os.path.join(image_path,&quot;val&quot;),&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;transform=data_transform[&quot;val&quot;])&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=1;spacing=2;spacingLeft=52;rounded=0;glass=0;fontSize=16;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-1530" width="400" height="181.25" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="-300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-91" value="定义迭代次数，保存路径，最佳准确率" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="uNlsaNpREDhHdGrhKNIU-89">
+          <mxGeometry x="0.0584" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-82" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;net = AlexNet(num_classes=5, init_weights=True)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;net.to(device)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;loss_function = nn.CrossEntropyLoss()&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;optimizer = optim.Adam(net.parameters(), lr=0.0002)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=1;spacing=2;spacingLeft=52;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-181" width="400" height="181.25" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="-620.625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-95" value="开始训练模型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="uNlsaNpREDhHdGrhKNIU-93">
+          <mxGeometry x="-0.0044" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-90" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;epochs = 10&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;save_path = &#39;./AlexNet.pth&#39;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;best_acc = 0.0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;train_steps = len(train_loader)&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=1;spacing=2;spacingLeft=52;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-480" width="400" height="181.25" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-94" target="uNlsaNpREDhHdGrhKNIU-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="-1210.625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-100" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;验证集不训练模型with torch.no_grad()&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="uNlsaNpREDhHdGrhKNIU-98">
+          <mxGeometry x="-0.0005" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-94" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;for epoch in range(epochs):&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;net.train()&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;running_loss = 0.0&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;train_bar = tqdm(train_lorder, file=sys.stdout)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;for step, data in enumerate(train_bar):&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;images, labels = data&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;optimizer.zero_grad()&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;outputs = net(images.to(device))&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;loss = loss_function(outputs, labels.to(device))&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;loss.backward()&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;optimizer.step()&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;running_loss += loss.item()&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;train_bar.desc = &quot;train epoch:[{}/{}] loss:{:.3f}&quot;.format(epoch + 1, epochs., loss)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=1;spacing=2;spacingLeft=52;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-980" width="400" height="361.25" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-99" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;net.eval()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;acc = 0.0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;with torch.no_grad():&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;val_bar = tqdm(validate_loader, file=sys.stdout)&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;for val_data in val_bar:&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;v&lt;/span&gt;al_images, val_labels = val_data&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;outputs = net(val_images.to(device))&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;predict_y = torch.max(outputs, dim=1)[1]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;acc += torch.eq(predict_y, val_labels.to(device)).sum().item()&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;val_accurate = acc / val_num&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;print(&#39;[epoch %d] train_loss: %.3f val_accurate: %.3f&#39;.format(epoch + 1, runnning_loss/train_steps, val_accurate))&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;if val_accurate &amp;gt; best_acc:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;best_acc = val_accurate&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;torch.save(net.state_dict(), save_path)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fontStyle=1;spacing=2;spacingLeft=52;rounded=0;glass=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-2010" width="400" height="541.25" as="geometry" />
+        </mxCell>
+        <UserObject label="class LeNet(nn.Module):&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;def __init__(self):&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;super(LeNet, self).__init__()&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;self.conv1 = nn.Conv2d(3, 16, 5)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;self.pool1 = nn.MaxPool2d(2, 2)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;self.conv2 = nn.Conv2d(16, 32, 5)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;self.pool2 = nn.MaxPool2d(2, 2)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;self.fc1 = nn.Linear(32*5*5, 120)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;self.fc2 = nn.Linear(120, 84)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;self.fc3 = nn.Linear(84, 10)&lt;br&gt;&lt;/div&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="uNlsaNpREDhHdGrhKNIU-102">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+            <mxGeometry x="-710" y="1009" width="270" height="391" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-148" value="Model" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;fontStyle=1;labelBackgroundColor=none;fontColor=#FEFAE0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="490" y="970" as="geometry">
+            <mxPoint x="-68" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-177" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-580" y="1350" as="sourcePoint" />
+            <mxPoint x="-575" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;" edge="1" parent="1" source="uNlsaNpREDhHdGrhKNIU-178" target="uNlsaNpREDhHdGrhKNIU-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNlsaNpREDhHdGrhKNIU-181" value="LeNet前向传播" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;" vertex="1" connectable="0" parent="uNlsaNpREDhHdGrhKNIU-179">
+          <mxGeometry x="0.0467" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div&gt;def forward(self, x):&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;x = F.relu(self.conv1(x))&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;x = self.pool1(x)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;x = F.relu(self.conv2(x))&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;x = self.pool2(x)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;x = x.view(-1, 32*5*5)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;x = F.relu(self.fc1(x))&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;x = F.relu(self.fc2(x))&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;x = self.fc3(x)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;return x&lt;br&gt;&lt;/div&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="uNlsaNpREDhHdGrhKNIU-178">
+          <mxCell style="label;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+            <mxGeometry x="-710" y="1500" width="270" height="391" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
